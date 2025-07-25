@@ -1,4 +1,4 @@
-# Contract Manager 1.0 - программа для ведения договоров
+# Contract Manager 1.0 - программа для учета и ведения договоров
 Copyright &copy; Ivan Pozhidaev, 2025
 
 # Как использовать программу:
